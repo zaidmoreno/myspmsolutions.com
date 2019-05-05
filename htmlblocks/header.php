@@ -18,11 +18,11 @@
               <nav class="sc_layouts_menu sc_layouts_menu_default menu_hover_slide_line hide_on_mobile" data-animation-in="fadeInUpSmall" data-animation-out="fadeOutDownSmall">
                   <ul id="menu-main-menu" class="sc_layouts_menu_nav">
                       <!-- Menu item : Home -->
-                      <li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children">
+                      <li class="menu-item">
                           <a href="#">
                               <span>Home</span>
                           </a>
-                          <ul class="sub-menu">
+                          <!-- <ul class="sub-menu">
                               <li class="menu-item current-menu-item">
                                   <a href="index.php">
                                       <span>Home</span>
@@ -33,29 +33,69 @@
                                       <span>Home Boxed</span>
                                   </a>
                               </li>
-                          </ul>
+                          </ul> -->
                       </li>
                       <!-- /Menu item : Home -->
                       <!-- Menu item : Features -->
                       <li class="menu-item menu-item-has-children">
                           <a href="#">
-                              <span>Features</span>
+                              <span>Products</span>
                           </a>
                           <ul class="sub-menu">
                               <!-- Menu item : Tools -->
                               <li class="menu-item menu-item-has-children">
                                   <a href="#">
-                                      <span>Tools</span>
+                                      <span>Apparel & Accesories</span>
                                   </a>
                                   <ul class="sub-menu">
                                       <li class="menu-item">
-                                          <a href="typography.html">
-                                              <span>Typography</span>
+                                          <a href="#">
+                                              <span>T-Shirts</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="shortcodes.html">
-                                              <span>Shortcodes</span>
+                                          <a href="#">
+                                              <span>Long Sleeves</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Polos</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Sweatshirts</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Hoodies</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Zipper Hoodies</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Tank Tops</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Raglans</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Ringers</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Baby Dolls</span>
                                           </a>
                                       </li>
                                   </ul>
@@ -64,37 +104,57 @@
                               <!-- Menu item : Pages -->
                               <li class="menu-item menu-item-has-children">
                                   <a href="#">
-                                      <span>Pages</span>
+                                      <span>Paper & Cardstock</span>
                                   </a>
                                   <ul class="sub-menu">
                                       <li class="menu-item">
-                                          <a href="team.html">
-                                              <span>Our Team</span>
+                                          <a href="#">
+                                              <span>Business Cards</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="team-single.html">
-                                              <span>Team Member</span>
+                                          <a href="#">
+                                              <span>Flyers</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Postcards</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Brochures</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Door Hangers</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Posters</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Envelopes</span>
                                           </a>
                                       </li>
                                       <li class="menu-item menu-item-has-children">
                                           <a href="#">
-                                              <span>Gallery</span>
+                                              <span>Stickers & Decals</span>
                                           </a>
                                           <ul class="sub-menu">
                                               <li class="menu-item">
-                                                  <a href="gallery-grid.html">
-                                                      <span>Gallery Grid</span>
+                                                  <a href="#">
+                                                      <span>Full Color Stickers</span>
                                                   </a>
                                               </li>
                                               <li class="menu-item">
-                                                  <a href="gallery-cobbles.html">
-                                                      <span>Gallery Cobbles</span>
-                                                  </a>
-                                              </li>
-                                              <li class="menu-item">
-                                                  <a href="gallery-masonry.html">
-                                                      <span>Gallery Masonry</span>
+                                                  <a href="#">
+                                                      <span>Die-Cut Stickers</span>
                                                   </a>
                                               </li>
                                           </ul>
@@ -105,7 +165,7 @@
                               <!-- Menu item : Support -->
                               <li class="menu-item menu-item-has-children">
                                   <a href="#">
-                                      <span>Support</span>
+                                      <span>Banners & Signage</span>
                                   </a>
                                   <ul class="sub-menu">
                                       <li class="menu-item">
