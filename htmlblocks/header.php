@@ -19,7 +19,7 @@
                   <ul id="menu-main-menu" class="sc_layouts_menu_nav">
                       <!-- Menu item : Home -->
                       <li class="menu-item">
-                          <a href="#">
+                          <a href="/">
                               <span>Home</span>
                           </a>
                           <!-- <ul class="sub-menu">
@@ -36,16 +36,16 @@
                           </ul> -->
                       </li>
                       <!-- /Menu item : Home -->
-                      <!-- Menu item : Features -->
+                      <!-- Menu item : Products -->
                       <li class="menu-item menu-item-has-children">
                           <a href="#">
                               <span>Products</span>
                           </a>
                           <ul class="sub-menu">
-                              <!-- Menu item : Tools -->
+                              <!-- Menu item : Apparel -->
                               <li class="menu-item menu-item-has-children">
                                   <a href="#">
-                                      <span>Apparel & Accesories</span>
+                                      <span>Apparel</span>
                                   </a>
                                   <ul class="sub-menu">
                                       <li class="menu-item">
@@ -100,8 +100,8 @@
                                       </li>
                                   </ul>
                               </li>
-                              <!-- /Menu item : Tools -->
-                              <!-- Menu item : Pages -->
+                              <!-- /Menu item : Apparel -->
+                              <!-- Menu item : Paper & Cardstock -->
                               <li class="menu-item menu-item-has-children">
                                   <a href="#">
                                       <span>Paper & Cardstock</span>
@@ -142,48 +142,79 @@
                                               <span>Envelopes</span>
                                           </a>
                                       </li>
-                                      <li class="menu-item menu-item-has-children">
+                                  </ul>
+                              </li>
+                              <!-- /Menu item : Paper & Cardstock -->
+                              <!-- Menu item : Stickers & Decals -->
+                              <li class="menu-item menu-item-has-children">
+                                  <a href="#">
+                                      <span>Stickers & Decals</span>
+                                  </a>
+                                  <ul class="sub-menu">
+                                      <li class="menu-item">
                                           <a href="#">
-                                              <span>Stickers & Decals</span>
+                                              <span>Full Color Stickers</span>
                                           </a>
-                                          <ul class="sub-menu">
-                                              <li class="menu-item">
-                                                  <a href="#">
-                                                      <span>Full Color Stickers</span>
-                                                  </a>
-                                              </li>
-                                              <li class="menu-item">
-                                                  <a href="#">
-                                                      <span>Die-Cut Stickers</span>
-                                                  </a>
-                                              </li>
-                                          </ul>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Die-Cut Stickers</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Bumper Stickers</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Outdoor Decals</span>
+                                          </a>
                                       </li>
                                   </ul>
                               </li>
-                              <!-- /Menu item : Pages -->
-                              <!-- Menu item : Support -->
+                              <!-- /Menu item : Stickers & Decals -->
+                              <!-- Menu item : Banners & Signage -->
                               <li class="menu-item menu-item-has-children">
                                   <a href="#">
                                       <span>Banners & Signage</span>
                                   </a>
                                   <ul class="sub-menu">
                                       <li class="menu-item">
-                                          <a href="support.html">
-                                              <span>Support</span>
+                                          <a href="#">
+                                              <span>Banners</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="video-tutorials.html">
-                                              <span>Video Tutorials</span>
+                                          <a href="#">
+                                              <span>Yard Signs</span>
                                           </a>
                                       </li>
                                   </ul>
                               </li>
-                              <!-- /Menu item : Support -->
+                              <!-- /Menu item : Banners & Signage -->
                           </ul>
                       </li>
-                      <!-- /Menu item : Features -->
+                      <!-- /Menu item : Products -->
+                      <!-- Menu item : Services -->                      
+                      <li class="menu-item menu-item-has-children">
+                          <a href="#">
+                              <span>Services</span>
+                          </a>
+                          <ul class="sub-menu">                              
+                              <li class="menu-item">
+                                <a href="#">
+                                    <span>Screen Printing</span>
+                                </a>
+                              </li>
+                              <li class="menu-item">
+                                <a href="#">
+                                    <span>Embroidery</span>
+                                </a>
+                              </li>
+                          </ul>
+                      </li>
+                      <!-- /Menu item : Services -->
                       <!-- Menu item : About -->
                       <li class="menu-item menu-item-has-children">
                           <a href="#">
@@ -202,14 +233,7 @@
                               </li>
                           </ul>
                       </li>
-                      <!-- /Menu item : About -->
-                      <!-- Menu item : Services -->
-                      <li class="menu-item">
-                          <a href="services.html">
-                              <span>Services</span>
-                          </a>
-                      </li>
-                      <!-- /Menu item : Services -->
+                      <!-- /Menu item : About -->                      
                       <!-- Menu item : Blog -->
                       <li class="menu-item menu-item-has-children">
                           <a href="#">
