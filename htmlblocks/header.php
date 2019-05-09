@@ -212,30 +212,57 @@
                                     <span>Embroidery</span>
                                 </a>
                               </li>
+                              <li class="menu-item">
+                                <a href="#">
+                                    <span>Signage</span>
+                                </a>
+                              </li>
+                              <li class="menu-item">
+                                <a href="#">
+                                    <span>Offset & Digital Printing</span>
+                                </a>
+                              </li>
                           </ul>
                       </li>
                       <!-- /Menu item : Services -->
-                      <!-- Menu item : About -->
+                      <!-- Menu item : Help -->                      
                       <li class="menu-item menu-item-has-children">
                           <a href="#">
-                              <span>About</span>
+                              <span>Help</span>
                           </a>
-                          <ul class="sub-menu">
+                          <ul class="sub-menu">                              
                               <li class="menu-item">
-                                  <a href="about-style-1.html">
-                                      <span>Style 1</span>
-                                  </a>
+                                <a href="#">
+                                    <span>Contact</span>
+                                </a>
                               </li>
                               <li class="menu-item">
-                                  <a href="about-style-2.php">
-                                      <span>Style 2</span>
-                                  </a>
+                                <a href="#">
+                                    <span>File Setups</span>
+                                </a>
+                              </li>
+                              <li class="menu-item">
+                                <a href="#">
+                                    <span>Request a Quote</span>
+                                </a>
+                              </li>
+                              <li class="menu-item">
+                                <a href="#">
+                                    <span>Offset & Digital Printing</span>
+                                </a>
                               </li>
                           </ul>
                       </li>
+                      <!-- /Menu item : Help -->
+                      <!-- Menu item : About -->
+                      <li class="menu-item">
+                          <a href="about-style-2.php">
+                              <span>About</span>
+                          </a>                          
+                      </li>
                       <!-- /Menu item : About -->                      
                       <!-- Menu item : Blog -->
-                      <li class="menu-item menu-item-has-children">
+                      <!-- <li class="menu-item menu-item-has-children">
                           <a href="#">
                               <span>Blog</span>
                           </a>
@@ -283,7 +310,7 @@
                                   </ul>
                               </li>
                           </ul>
-                      </li>
+                      </li> -->
                       <!-- /Menu item : Blog -->
                       <!-- Menu item : Contacts -->
                       <li class="menu-item">
