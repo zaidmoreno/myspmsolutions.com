@@ -5,53 +5,62 @@
                         <nav class="menu_mobile_nav_area">
                             <ul id="menu_mobile-main-menu" class="">
                                 <!-- Menu item : Home -->
-                                <li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children">
-                                    <a href="#">
+                                <!-- <li class="menu-item current-menu-item current-menu-parent menu-item-has-children"> -->
+                                <li class="menu-item">
+                                    <a href="/">
                                         <span>Home</span>
-                                    </a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item menu-item-home current-menu-item">
-                                            <a href="index.html">
-                                                <span>Home</span>
-                                            </a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="homepage-boxed.html">
-                                                <span>Home Boxed</span>
-                                            </a>
-                                        </li>
-                                    </ul>
+                                    </a>                                
                                 </li>
                                 <!-- /Menu item : Home -->
-                                <!-- Menu item : Features -->
+                                <!-- Menu item : Products -->
                                 <li class="menu-item menu-item-has-children">
                                     <a href="#">
-                                        <span>Features</span>
+                                        <span>Products</span>
                                     </a>
                                     <ul class="sub-menu">
-                                        <!-- Menu item : Tools -->
+                                        <!-- Menu item : Apparel -->
                                         <li class="menu-item menu-item-has-children">
                                             <a href="#">
-                                                <span>Tools</span>
+                                                <span>Apparel</span>
                                             </a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item">
-                                                    <a href="typography.html">
-                                                        <span>Typography</span>
+                                                    <a href="#">
+                                                        <span>T-Shirts</span>
                                                     </a>
                                                 </li>
                                                 <li class="menu-item">
-                                                    <a href="shortcodes.html">
-                                                        <span>Shortcodes</span>
+                                                    <a href="#">
+                                                        <span>Polos</span>
+                                                    </a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="#">
+                                                        <span>Long Sleves</span>
+                                                    </a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="#">
+                                                        <span>Tank Tops</span>
+                                                    </a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="#">
+                                                        <span>Hoodies</span>
+                                                    </a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="#">
+                                                        <span>Sweatshirts</span>
                                                     </a>
                                                 </li>
                                             </ul>
                                         </li>
-                                        <!-- /Menu item : Tools -->
-                                        <!-- Menu item : Pages -->
+                                        <!-- /Menu item : Apparel -->
+                                        <!-- Menu item : Paper & Cardstock -->
                                         <li class="menu-item menu-item-has-children">
                                             <a href="#">
-                                                <span>Pages</span>
+                                                <span>Paper & Cardstock</span>
                                             </a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item">
@@ -88,16 +97,16 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <!-- /Menu item : Pages -->
-                                        <!-- Menu item : Support -->
+                                        <!-- /Menu item : Paper & Cardstock -->
+                                        <!-- Menu item : Stickers -->
                                         <li class="menu-item menu-item-has-children">
                                             <a href="#">
-                                                <span>Support</span>
+                                                <span>Stickers</span>
                                             </a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item">
-                                                    <a href="support.html">
-                                                        <span>Support</span>
+                                                    <a href="Stickers.html">
+                                                        <span>Stickers</span>
                                                     </a>
                                                 </li>
                                                 <li class="menu-item">
@@ -107,27 +116,34 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <!-- /Menu item : Support -->
+                                        <!-- /Menu item : Stickers -->
+                                        <!-- Menu item : Banners & Signage -->
+                                        <li class="menu-item menu-item-has-children">
+                                            <a href="#">
+                                                <span>Banners & Signage</span>
+                                            </a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item">
+                                                    <a href="#">
+                                                        <span>Banners & Signage</span>
+                                                    </a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="video-tutorials.html">
+                                                        <span>Video Tutorials</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <!-- /Menu item : Banners & Signage -->
                                     </ul>
                                 </li>
-                                <!-- /Menu item : Features -->
+                                <!-- /Menu item : Products -->
                                 <!-- Menu item : About -->
-                                <li class="menu-item menu-item-has-children">
-                                    <a href="#">
+                                <li class="menu-item">
+                                    <a href="about-style-2.php">
                                         <span>About</span>
-                                    </a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item">
-                                            <a href="about-style-1.html">
-                                                <span>Style 1</span>
-                                            </a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="about-style-2.html">
-                                                <span>Style 2</span>
-                                            </a>
-                                        </li>
-                                    </ul>
+                                    </a>                                    
                                 </li>
                                 <!-- /Menu item : About -->
                                 <!-- Menu item : Services -->
@@ -212,11 +228,11 @@
                         <!-- Socials -->
                         <div class="socials_mobile">
                             <span class="social_item">
-                                <a href="#" target="_blank" class="social_icons social_twitter">
+                                <a href="https://twitter.com/MySpmSolutions" target="_blank" class="social_icons social_twitter">
                                     <span class="trx_addons_icon-twitter"></span>
                                 </a>
                             </span><span class="social_item">
-                                <a href="#" target="_blank" class="social_icons social_facebook">
+                                <a href="https://www.facebook.com/myspmsolutions/" target="_blank" class="social_icons social_facebook">
                                     <span class="trx_addons_icon-facebook"></span>
                                 </a>
                             </span><span class="social_item">
