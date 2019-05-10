@@ -141,7 +141,7 @@
                                 <!-- /Menu item : Products -->
                                 <!-- Menu item : About -->
                                 <li class="menu-item">
-                                    <a href="about-style-2.php">
+                                    <a href="aboutus.php">
                                         <span>About</span>
                                     </a>                                    
                                 </li>
