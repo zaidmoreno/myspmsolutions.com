@@ -16,26 +16,7 @@
           <!-- Menu -->
           <div class="sc_layouts_item">
               <nav class="sc_layouts_menu sc_layouts_menu_default menu_hover_slide_line hide_on_mobile" data-animation-in="fadeInUpSmall" data-animation-out="fadeOutDownSmall">
-                  <ul id="menu-main-menu" class="sc_layouts_menu_nav">
-                      <!-- Menu item : Home -->
-                      <li class="menu-item">
-                          <a href="/">
-                              <span>Home</span>
-                          </a>
-                          <!-- <ul class="sub-menu">
-                              <li class="menu-item current-menu-item">
-                                  <a href="index.php">
-                                      <span>Home</span>
-                                  </a>
-                              </li>
-                              <li class="menu-item">
-                                  <a href="homepage-boxed.html">
-                                      <span>Home Boxed</span>
-                                  </a>
-                              </li>
-                          </ul> -->
-                      </li>
-                      <!-- /Menu item : Home -->
+                  <ul id="menu-main-menu" class="sc_layouts_menu_nav">                      
                       <!-- Menu item : Products -->
                       <li class="menu-item menu-item-has-children">
                           <a href="#">
@@ -49,53 +30,73 @@
                                   </a>
                                   <ul class="sub-menu">
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/short-sleeve-t-shirts.php">
                                               <span>T-Shirts</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/long-sleeve-t-shirts.php">
                                               <span>Long Sleeves</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/polos.php">
                                               <span>Polos</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/custom-hats-and-headwear.php">
+                                              <span>Headwear</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="apparel/sweatshirts.php">
                                               <span>Sweatshirts</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/hoodies.php">
                                               <span>Hoodies</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/zipper-hoodies.php">
                                               <span>Zipper Hoodies</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/custom-printed-tank-tops.php">
                                               <span>Tank Tops</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/raglans.php">
                                               <span>Raglans</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
+                                          <a href="apparel/ringers.php">
                                               <span>Ringers</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
-                                          <a href="#">
-                                              <span>Baby Dolls</span>
+                                          <a href="apparel/custom-printed-womens-apparel.php">
+                                              <span>Womens</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="apparel/underwear.php">
+                                              <span>Underwear</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="apparel/custom-printed-workwear.php">
+                                              <span>Workwear</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="apparel/v-neck-t-shirts.php">
+                                              <span>V-Necks</span>
                                           </a>
                                       </li>
                                   </ul>
@@ -119,12 +120,12 @@
                                       </li>
                                       <li class="menu-item">
                                           <a href="#">
-                                              <span>Postcards</span>
+                                              <span>Envelopes</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
                                           <a href="#">
-                                              <span>Brochures</span>
+                                              <span>Postcards</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
@@ -134,14 +135,44 @@
                                       </li>
                                       <li class="menu-item">
                                           <a href="#">
+                                              <span>Brochures</span>
+                                          </a>
+                                      </li>                                      
+                                      <li class="menu-item">
+                                          <a href="#">
                                               <span>Posters</span>
                                           </a>
                                       </li>
                                       <li class="menu-item">
                                           <a href="#">
-                                              <span>Envelopes</span>
+                                              <span>Booklets</span>
                                           </a>
                                       </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Bookmarks</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Event Tickets</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Folded Cards</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Letter Heads</span>
+                                          </a>
+                                      </li>
+                                      <li class="menu-item">
+                                          <a href="#">
+                                              <span>Presentation Folders</span>
+                                          </a>
+                                      </li>                         
                                   </ul>
                               </li>
                               <!-- /Menu item : Paper & Cardstock -->
@@ -222,9 +253,21 @@
                                     <span>Offset & Digital Printing</span>
                                 </a>
                               </li>
+                              <li class="menu-item">
+                                <a href="#">
+                                    <span>Graphic Design</span>
+                                </a>
+                              </li>
                           </ul>
                       </li>
                       <!-- /Menu item : Services -->
+                      <!-- Menu item : Gallery -->
+                      <li class="menu-item">
+                          <a href="#">
+                              <span>Gallery</span>
+                          </a>                          
+                      </li>
+                      <!-- /Menu item : Gallery -->
                       <!-- Menu item : Help -->                      
                       <li class="menu-item menu-item-has-children">
                           <a href="#">
@@ -238,7 +281,7 @@
                               </li>
                               <li class="menu-item">
                                 <a href="#">
-                                    <span>File Setups</span>
+                                    <span>File Prep/Setup</span>
                                 </a>
                               </li>
                               <li class="menu-item">
@@ -248,7 +291,7 @@
                               </li>
                               <li class="menu-item">
                                 <a href="#">
-                                    <span>Offset & Digital Printing</span>
+                                    <span>FAQ</span>
                                 </a>
                               </li>
                           </ul>
@@ -261,64 +304,20 @@
                           </a>                          
                       </li>
                       <!-- /Menu item : About -->                      
-                      <!-- Menu item : Blog -->
-                      <!-- <li class="menu-item menu-item-has-children">
-                          <a href="#">
-                              <span>Blog</span>
-                          </a>
-                          <ul class="sub-menu">
-                              <li class="menu-item">
-                                  <a href="blog-streampage.html">
-                                      <span>Streampage</span>
-                                  </a>
-                              </li>
-                              <li class="menu-item menu-item-has-children">
-                                  <a href="#">
-                                      <span>Classic Style</span>
-                                  </a>
-                                  <ul class="sub-menu">
-                                      <li class="menu-item">
-                                          <a href="blog-classic-2-columns.html">
-                                              <span>2 Columns</span>
-                                          </a>
-                                      </li>
-                                      <li class="menu-item">
-                                          <a href="blog-classic-3-columns.html">
-                                              <span>3 Columns</span>
-                                          </a>
-                                      </li>
-                                  </ul>
-                              </li>
-                              <li class="menu-item menu-item-has-children">
-                                  <a href="#"><span>Chess Style</span></a>
-                                  <ul class="sub-menu">
-                                      <li class="menu-item">
-                                          <a href="blog-chess-2-columns.html">
-                                              <span>2 Columns</span>
-                                          </a>
-                                      </li>
-                                      <li class="menu-item">
-                                          <a href="blog-chess-4-columns.html">
-                                              <span>4 Columns</span>
-                                          </a>
-                                      </li>
-                                      <li class="menu-item">
-                                          <a href="blog-chess-6-columns.html">
-                                              <span>6 Columns</span>
-                                          </a>
-                                      </li>
-                                  </ul>
-                              </li>
-                          </ul>
-                      </li> -->
-                      <!-- /Menu item : Blog -->
                       <!-- Menu item : Contacts -->
                       <li class="menu-item">
                           <a href="contacts.html">
-                              <span>Contacts</span>
+                              <span>Contact</span>
                           </a>
                       </li>
                       <!-- Menu item : Contacts -->
+                      <!-- Menu item : Quick Quote -->
+                      <li class="menu-item">
+                          <a href="#">
+                              <span>Quick Quote</span>
+                          </a>                          
+                      </li>
+                      <!-- /Menu item : Quick Quote -->
                   </ul>
               </nav>
               <div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button">
@@ -362,7 +361,7 @@
                           <a href="https://twitter.com/MySpmSolutions" target="_blank" class="social_icons social_twitter">
                               <span class="trx_addons_icon-twitter"></span>
                           </a>
-                      </span><span class="social_item">
+                      <!-- </span><span class="social_item">
                           <a href="#" target="_blank" class="social_icons social_gplus">
                               <span class="trx_addons_icon-gplus"></span>
                           </a>
@@ -370,7 +369,7 @@
                           <a href="#" target="_blank" class="social_icons social_tumblr">
                               <span class="trx_addons_icon-tumblr"></span>
                           </a>
-                      </span>
+                      </span> -->
                   </div>
               </div>
           </div>
