@@ -263,7 +263,7 @@
                       <!-- /Menu item : Services -->
                       <!-- Menu item : Gallery -->
                       <li class="menu-item">
-                          <a href="#">
+                          <a href="gallery.php">
                               <span>Gallery</span>
                           </a>                          
                       </li>
@@ -275,12 +275,12 @@
                           </a>
                           <ul class="sub-menu">                              
                               <li class="menu-item">
-                                <a href="#">
+                                <a href="contactus.php">
                                     <span>Contact</span>
                                 </a>
                               </li>
                               <li class="menu-item">
-                                <a href="#">
+                                <a href="fileprep.php">
                                     <span>File Prep/Setup</span>
                                 </a>
                               </li>
@@ -290,7 +290,7 @@
                                 </a>
                               </li>
                               <li class="menu-item">
-                                <a href="#">
+                                <a href="faq.php">
                                     <span>FAQ</span>
                                 </a>
                               </li>
@@ -306,7 +306,7 @@
                       <!-- /Menu item : About -->                      
                       <!-- Menu item : Contacts -->
                       <li class="menu-item">
-                          <a href="contacts.html">
+                          <a href="contactus.php">
                               <span>Contact</span>
                           </a>
                       </li>

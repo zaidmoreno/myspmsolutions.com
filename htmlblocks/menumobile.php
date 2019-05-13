@@ -4,140 +4,215 @@
                         <a class="menu_mobile_close icon-cancel"></a>
                         <nav class="menu_mobile_nav_area">
                             <ul id="menu_mobile-main-menu" class="">
-                                <!-- Menu item : Home -->
-                                <!-- <li class="menu-item current-menu-item current-menu-parent menu-item-has-children"> -->
-                                <li class="menu-item">
-                                    <a href="/">
-                                        <span>Home</span>
-                                    </a>                                
-                                </li>
-                                <!-- /Menu item : Home -->
                                 <!-- Menu item : Products -->
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="#">
-                                        <span>Products</span>
-                                    </a>
-                                    <ul class="sub-menu">
-                                        <!-- Menu item : Apparel -->
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="#">
-                                                <span>Apparel</span>
-                                            </a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="#">
-                                                        <span>T-Shirts</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="#">
-                                                        <span>Polos</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="#">
-                                                        <span>Long Sleves</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="#">
-                                                        <span>Tank Tops</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="#">
-                                                        <span>Hoodies</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="#">
-                                                        <span>Sweatshirts</span>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <!-- /Menu item : Apparel -->
-                                        <!-- Menu item : Paper & Cardstock -->
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="#">
-                                                <span>Paper & Cardstock</span>
-                                            </a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="team.html">
-                                                        <span>Our Team</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="team-single.html">
-                                                        <span>Team Member</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item menu-item-has-children">
-                                                    <a href="#">
-                                                        <span>Gallery</span>
-                                                    </a>
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item">
-                                                            <a href="gallery-grid.html">
-                                                                <span>Gallery Grid</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="menu-item">
-                                                            <a href="gallery-cobbles.html">
-                                                                <span>Gallery Cobbles</span>
-                                                            </a>
-                                                        </li>
-                                                        <li class="menu-item">
-                                                            <a href="gallery-masonry.html">
-                                                                <span>Gallery Masonry</span>
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <!-- /Menu item : Paper & Cardstock -->
-                                        <!-- Menu item : Stickers -->
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="#">
-                                                <span>Stickers</span>
-                                            </a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="Stickers.html">
-                                                        <span>Stickers</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="video-tutorials.html">
-                                                        <span>Video Tutorials</span>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <!-- /Menu item : Stickers -->
-                                        <!-- Menu item : Banners & Signage -->
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="#">
-                                                <span>Banners & Signage</span>
-                                            </a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="#">
-                                                        <span>Banners & Signage</span>
-                                                    </a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="video-tutorials.html">
-                                                        <span>Video Tutorials</span>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <!-- /Menu item : Banners & Signage -->
-                                    </ul>
-                                </li>
+                                <a href="#">
+                                    <span>Products</span>
+                                </a>
+                                <ul class="sub-menu">
+                                    <!-- Menu item : Apparel -->
+                                    <li class="menu-item menu-item-has-children">
+                                        <a href="#">
+                                            <span>Apparel</span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item">
+                                                <a href="apparel/short-sleeve-t-shirts.php">
+                                                    <span>T-Shirts</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/long-sleeve-t-shirts.php">
+                                                    <span>Long Sleeves</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/polos.php">
+                                                    <span>Polos</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/custom-hats-and-headwear.php">
+                                                    <span>Headwear</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/sweatshirts.php">
+                                                    <span>Sweatshirts</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/hoodies.php">
+                                                    <span>Hoodies</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/zipper-hoodies.php">
+                                                    <span>Zipper Hoodies</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/custom-printed-tank-tops.php">
+                                                    <span>Tank Tops</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/raglans.php">
+                                                    <span>Raglans</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/ringers.php">
+                                                    <span>Ringers</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/custom-printed-womens-apparel.php">
+                                                    <span>Womens</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/underwear.php">
+                                                    <span>Underwear</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/custom-printed-workwear.php">
+                                                    <span>Workwear</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="apparel/v-neck-t-shirts.php">
+                                                    <span>V-Necks</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <!-- /Menu item : Apparel -->
+                                    <!-- Menu item : Paper & Cardstock -->
+                                    <li class="menu-item menu-item-has-children">
+                                        <a href="#">
+                                            <span>Paper & Cardstock</span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Business Cards</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Flyers</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Envelopes</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Postcards</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Door Hangers</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Brochures</span>
+                                                </a>
+                                            </li>                                      
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Posters</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Booklets</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Bookmarks</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Event Tickets</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Folded Cards</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Letter Heads</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Presentation Folders</span>
+                                                </a>
+                                            </li>                         
+                                        </ul>
+                                    </li>
+                                    <!-- /Menu item : Paper & Cardstock -->
+                                    <!-- Menu item : Stickers & Decals -->
+                                    <li class="menu-item menu-item-has-children">
+                                        <a href="#">
+                                            <span>Stickers & Decals</span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Full Color Stickers</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Die-Cut Stickers</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Bumper Stickers</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Outdoor Decals</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <!-- /Menu item : Stickers & Decals -->
+                                    <!-- Menu item : Banners & Signage -->
+                                    <li class="menu-item menu-item-has-children">
+                                        <a href="#">
+                                            <span>Banners & Signage</span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Banners</span>
+                                                </a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="#">
+                                                    <span>Yard Signs</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <!-- /Menu item : Banners & Signage -->
+                                </ul>
+                            </li>
                                 <!-- /Menu item : Products -->
                                 <!-- Menu item : About -->
                                 <li class="menu-item">

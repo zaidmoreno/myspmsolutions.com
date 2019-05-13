@@ -1,5 +1,5 @@
 <?php include("include/businessinfo.php");
-$pageName = "About Us";
+$pageName = "Frequently Asked Questions";
 ?>
 <!DOCTYPE html>
 <html lang="en-US" class="no-js scheme_default">
@@ -79,35 +79,154 @@ $pageName = "About Us";
                                 <!-- About Us Continiued -->                                
                                 <div class="content_wrap sc_layouts_column_icons_position_left">
                                     <div class="empty_space height_6_6rem"></div>
-                                    <div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_no_paddings sc_promo_no_image">
-                                        <div class="sc_promo_text width_100_per">                                        
-                                            <div class="sc_promo_text_inner">        
-                                            <h2 class="sc_item_title sc_promo_title sc_align_center sc_item_title_style_default">About Screen Printing by Marquina</h2>
-                                                <div class="sc_item_descr sc_promo_descr sc_align_left"><p>Screen Printing by Marquina specializes in custom full-color offset printing, apparel printing and embroidery. Our state-of-the-art equipment and an expert staff with over 25 years of collective experience in the printing industry allows us to offer the highest quality products and best service anywhere while still offering the industry’s most competitive prices.</p></div>                                     
-                                                <div class="sc_item_descr sc_promo_descr sc_align_left"><p>Screen Printing by Marquina is an independently owned and operated company that proudly calls Los Angeles, California, home. Believing in the success of its hometown, we are proud to show our support by combining a passion for business with the passion of community, people, and the environment. In the community we remain active by partnering with local businesses and organizations. As an employer we believe that the rhythm of our success is produced by the energy of the people creating the product as much as the product we create. We believe in being a pioneering environmental force. We address that responsibility in all aspects of our daily production. Through technology and creative innovation we have improved our efficiency to produce top-of-the-line products using recycled paper and soy and vegetable-based inks.</div>
-                                                <div class="sc_item_descr sc_promo_descr sc_align_left"><p>As Screen Printing by Marquina has grown as a business, so has our ability to meet the growing challenges of our clients. We continually reinvest in ourselves while offering you the highest quality service at the lowest possible price. We like to think of our clients as friends, and every job is important in building that relationship. As you begin working on your next project look to Screen Printing by Marquina for all your promotional needs, because our job is to get your business more business. Thank you for your support!</p></div>
-                                            </div>
-                                        </div>
+                                    <div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_no_paddings sc_promo_no_image">                                      
+                                    <div id="content">					
+					<br>
+					<h3>Screen Printing Questions</h3>
+					<br>
+					<ul>
+						<li>
+							<a href="#1">Can I choose different color shirts with an order?</a>
+						</li>
+						<li>
+							<a href="#2">If I order 100 apparel items, can I split them into two different graphics
+								and still receive 100 quantity pricing?
+							</a>
+						</li>
+						<li>
+							<a href="#3">What affects the price of garments?</a>
+						</li>
+						<li>
+							<a href="#4">What is the maximum size you can screen print?</a>
+						</li>
+						<li>
+							<a href="#5">Do you have specialty inks?</a>
+						</li>
+						<li>
+							<a href="#6">Does black count as an ink color?</a>
+						</li>
+						<li>
+							<a href="#7">Can I print a color photograph?</a>
+						</li>
+						<li>
+							<a href="#8">What is the minimum order?</a>
+						</li>
+						<li>
+							<a href="#9">What is your turnaround time?</a>
+						</li>
+					</ul>
+					<h2>Wide Format Printing Questions</h2>
+					<br>
+					<ul>
+						<li>
+							<a href="#10">Do you do vinyl or digital signs?</a>
+						</li>
+						<li>
+							<a href="#11">What if I order a large quantity of signs?</a>
+						</li>
+					</ul>
+					<h2>Full Color Printing Questions</h2>
+					<br>
+					<ul>
+						<li>
+							<a href="#12">Why can't I submit my job in RGB color mode?</a>
+						</li>
+						<li>
+							<a href="#13">Why did the colors print differently from the colors on my monitor?</a>
+						</li>
+						<li>
+							<a href="#14">What are the bleed requirements?</a>
+						</li>
+						<li>
+							<a href="#15">What are your resolution requirements?</a>
+						</li><li>
+						</li><li>
+							<a href="#16">Can I include front and back images in 1 file?</a>
+						</li>
+					</ul>
+					<hr>
+					<br>
+					<dl>
+						<h3>Screen Printing Questions</h3>
+						<br>
+						<dt><a name="1">Can I choose different color shirts with an order?</a></dt>
+						<dd>Yes, you can mix and match different sizes &amp; colors. Your price per piece will only change between dark or light color shirts. Dark Color shirts are more expensive to print than light colors.<br>
+							<a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="2">If I order 100 apparel items, can I split them into two different graphics and still receive 100 quantity pricing?
+							</a>
+						</dt>
+						<dd>No, because it is not 100 quantity. It is two orders of 50 quantity and that is how it would be priced.
+							Orders are based on graphic setup, (SCREENS) not total quantity. This situation results in twice the setup, twice as many
+							screens, and twice the run time.<br><a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="3">What affects the price of garments?</a></dt>
+						<dd>Your price is affected by: the quantity, quality, and color of garments you select; the number of ink colors
+							used in your artwork; and the number of print locations on the garments.<br>
+							<a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="4">What is the maximum size you can screen print?</a></dt>
+						<dd>We can print a maximum size of 16 inches High and 12 inches wide.<br><a href="#top">Back to top</a>
+						</dd><dt><a name="5">Do you have specialty inks?</a></dt>
+						<dd>Yes, we have flourescent colors as well as puff, shimmer and metallic inks. We also match Pantone colors.<br><a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="6">Does black count as an ink color?</a></dt>
+						<dd>Yes, count black as well as white when figuring the number of ink colors in your design.<br><a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="7">Can I print a color photograph?</a></dt>
+						<dd>Yes, but as it involves slightly more sophisticated technology, there is a different pricing structure
+						and minimum quantity order. Contact us for color photography reproduction.
+						Do not hesitate to call if you have questions.<br><a href="#top">Back to top</a>
+						</dd><dd>
+						</dd><dt><a name="8">What is the minimum order?</a></dt>
+						<dd>Thirty six (36) garments is our minimum order. You may combine any number of shirt colors
+							or styles to meet this minimum. For example, order 8 Beefy T-shirts in red, 8 in black and 8 in navy as long
+							as we dont have to alter the setup. Or you may order 12 t-shirts and 12 tank tops.
+							<br><a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="9">What is your turnaround time?</a></dt>
+						<dd>Our normal turnaround time is 7 business days. Have you procrastinated? Relax. Expedited
+							turnaround, even same day service, is available! Please call for details.<br><a href="#top">Back to top</a>
+						</dd>
+						<br>
+						<h3>Wide Format Printing Questions</h3>
+						<br>
+						<dt><a name="10">Do you do vinyl or digital signs?</a></dt>
+						<dd>We can do both. Usually when its something simple like 1 - 4 spot colors we do them vinyl. When its a lot of
+							colors we make them digital. Or you can just choose which ever you like best.<br><a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="11">What if I order a large quantity of signs?</a></dt>
+						<dd>If you order more than 10 signs we screen print them because it is faster and cheaper for you.<br><a href="#top">Back to top</a>
+						</dd>
+						<br>
+						<h3>Full Color Printing Questions</h3>
+						<br>
+						<dt><a name="12">Why can't I submit my job in RGB color mode?</a></dt>
+						<dd>A lot of the colors you create in RGB mode are not achievable using standard four-color process printing.
+							If you submit your job in RGB color mode, we will convert it before it goes to press, which will lead to color shifts
+							that you may not be happy with. It is always best to create your document from the start in CMYK format to ensure that
+							you have a better idea of how your colors are going to print.<br><a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="13">Why did the colors print differently from the colors on my monitor?</a></dt>
+						<dd>Monitors display colors in RGB... not CMYK. As well, most monitors are not calibrated for color
+							accuracy. There is also a wide range of gamma differences in PCs, Macs and various manufacturers of monitors.
+							Room lighting can also have an impact of your perception of color. Leave the color to us - we're the experts!<br><a href="#top">Back to top</a>
+						</dd>
+						<dt><a name="14">What are the bleed requirements?</a></dt>
+						<dd>All files must include a 1/8" (0.125 inch) bleed regardless if your design bleeds to the edge or not. An example of bleed setup for a 4" x 6" postcard would be 4.125" x 6.125".
+						</dd>
+						<dt><a name="15">What are your resolution requirements?</a></dt>
+						<dd>All rasterized (bitmap) images must be at least 300 dpi. However, 400 dpi for photo images and 1200 dpi for text and line art is highly recommended. "
+						</dd>
+						<dt><a name="16">Can I include front and back images in 1 file?</a></dt>
+						<dd> Each side of your artwork must be in a separate file. Do not put both front and back in the same file.</dd>
+					</dl>
+				</div>                                   
                                     </div>
                                     <div class="empty_space height_6_6rem"></div>
                                 </div>
                                 <!-- /About Us Continiued -->
-                                <!-- Our History -->
-                                <div class="copypress-custom-bg-1">
-                                    <div class="content_wrap sc_layouts_column_icons_position_left">
-                                        <div class="empty_space height_6_6rem"></div>
-                                        <div class="sc_promo sc_promo_default sc_promo_size_large sc_promo_no_paddings sc_promo_no_image">
-                                            <div class="sc_promo_text width_100_per">                                            
-                                                <div class="sc_promo_text_inner">
-                                                    <h2 class="sc_item_title sc_promo_title sc_align_center sc_item_title_style_default">Our History</h2>
-                                                    <div class="sc_item_descr sc_promo_descr sc_align_left">The one person who has strived to maintain the business running is Marquina Moreno. She started as an employee in the year 1990 to the company. There she learned to screen printing and learned to love printing. She worked for five years with three more co-workers until her employer sold the company with the condition that Marquina would still be working there. This time, Marquina worked by herself doing everything from sweeping to printing. Four more years and her new employer decided to sell the company but this time, after working by herself for so long, Marquina was ready to take on the challenges of owning a business. Marquina bought the company and re-named it Screen Printing by Marquina after realizing she was the only employee. Seven years and Screen Printing by Marquina now has five employees and it's growing steadily.</div>                                                    
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="empty_space height_6_6rem"></div>
-                                    </div>
-                                </div>
-                                <!-- /Our History -->
+                                
                                 <!-- About section -->
                                 <div class="copypress-custom-bg-10 scheme_dark">
                                     <div class="content_wrap sc_layouts_column_icons_position_left">

@@ -168,8 +168,8 @@ $pageName = "Home";
                                                 <div class="empty_space height_3em"></div>
                                                 <div class="sc_title sc_title_default">
                                                     <h6 class="sc_item_subtitle sc_title_subtitle sc_align_default sc_item_title_style_default">welcome to our</h6>
-                                                    <h2 class="sc_item_title sc_title_title sc_align_default sc_item_title_style_default">Full-service copy<br />
-                                                        & printing center</h2>
+                                                    <h2 class="sc_item_title sc_title_title sc_align_default sc_item_title_style_default">Full-service Apparel<br />
+                                                        printing center</h2>
                                                 </div>
                                                 <div class="empty_space height_2em"></div>
                                                 <p>Screen Printing by Marquina has provided quality printing services to the NYC area and beyond since 1896! We specialize in commercial offset printing and digital printing services to cover all your needs. From brochures to banners, we are your one-stop print shop.</p>
@@ -193,7 +193,7 @@ $pageName = "Home";
                                 </div>
                                 <!-- /Welcome section -->
                                 <!-- Video section -->
-                                <div class="copypress-custom-bg-12 scheme_dark">
+                                <!-- <div class="copypress-custom-bg-12 scheme_dark">
                                     <div class="content_wrap sc_layouts_column_icons_position_left">
                                         <div id="widget_video_1" class="widget_area sc_widget_video">
                                             <aside id="widget_video_1_widget" class="widget widget_video">
@@ -211,7 +211,7 @@ $pageName = "Home";
                                         </div>
 
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- /Video section -->
                                 <!-- Services section -->
                                 <div class="copypress-custom-bg-2">
@@ -280,7 +280,7 @@ $pageName = "Home";
                                                                 <span>Provide Quality</span>
                                                             </h6>
                                                             <h2 class="sc_item_title sc_action_item_title sc_align_default sc_item_title_style_default">
-                                                                <span>Copy Services</span>
+                                                                <span>Printing Services</span>
                                                             </h2>
                                                             <div class="sc_action_item_description">
                                                                 <span>Photocopying is widely used in the business, education, and government sectors. While there have been predictions that photocopiers will eventually become obsolete as information workers increase their use.</span>
@@ -313,10 +313,10 @@ $pageName = "Home";
                                                     <div class="sc_services_item_content copypress-service-1">
                                                         <div class="sc_services_item_content_inner">
                                                             <h3 class="sc_services_item_title">
-                                                                <a href="services-single.html">Digital Printing</a>
+                                                                <a href="services-single.html">Custom Screen Printing</a>
                                                             </h3>
                                                             <div class="sc_services_item_text">
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, seddo eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+                                                                <p>The possibilities are endless. We offer endless possibilities for your apparel needs, from fashion forward high end options, to quality and budget friendly pieces. Start your order off right and save time by ordering from our array of apparel stocks. You will not find a more generous</p>
                                                             </div>
                                                             <div class="sc_services_item_link sc_item_button">
                                                                 <a class="sc_button_white sc_button_hover_slide_left" href="services-single.html">More info</a>
@@ -329,10 +329,10 @@ $pageName = "Home";
                                                 <div class="sc_services_item_content copypress-service-2">
                                                     <div class="sc_services_item_content_inner">
                                                         <h3 class="sc_services_item_title">
-                                                            <a href="services-single.html">Large Format</a>
+                                                            <a href="services-single.html">Custom Embroidery</a>
                                                         </h3>
                                                         <div class="sc_services_item_text">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, seddo eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+                                                            <p>Express yourself custom embroidery effects and specialty threads! Create a custom look with our dazzling effects and threads. Jakprints can embroider on almost any apparel stock you desire. No matter what your style, the high-quality, detailed results will make you look like a professional</p>
                                                         </div>
                                                         <div class="sc_services_item_link sc_item_button">
                                                             <a class="sc_button_white sc_button_hover_slide_left" href="services-single.html">More info</a>
@@ -345,10 +345,10 @@ $pageName = "Home";
                                                 <div class="sc_services_item_content copypress-service-1">
                                                     <div class="sc_services_item_content_inner">
                                                         <h3 class="sc_services_item_title">
-                                                            <a href="services-single.html">Offset Printing</a>
+                                                            <a href="services-single.html">Signage</a>
                                                         </h3>
                                                         <div class="sc_services_item_text">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, seddo eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+                                                            <p>Express yourself custom embroidery effects and specialty threads! Create a custom look with our dazzling effects and threads. Jakprints can embroider on almost any apparel stock you desire. No matter what your style, the high-quality, detailed results will make you look like a professional Vinyl Banners Available on 13 oz Matte, weather-resistant vinyl with solvent-based inks for long-lasting, vibrant signage -- perfect for indoor or outdoor use. Options & Upgrades Grommets (Included Standard) Reinforced Hem Pole Pockets Wind Slits Velcro How to Order</p>
                                                         </div>
                                                         <div class="sc_services_item_link sc_item_button">
                                                             <a class="sc_button_white sc_button_hover_slide_left" href="services-single.html">More info</a>
@@ -467,237 +467,8 @@ $pageName = "Home";
                                     </div>
                                 </div>
                                 <!-- /Testimonials -->
-                                <!-- Projects -->
-                                <div class="copypress-custom-bg-1">
-                                    <div class="sc_layouts_column_icons_position_left">
-                                        <div class="empty_space height_9_4em"></div>
-                                        <div class="sc_title sc_title_default">
-                                            <h6 class="sc_item_subtitle sc_title_subtitle sc_align_center sc_item_title_style_large">recent works</h6>
-                                            <h2 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_large">Our Projects</h2>
-                                        </div>
-                                        <div class="empty_space height_3em"></div>
-                                        <!-- THE ESSENTIAL GRID 2.1.0.2 -->
-                                        <article class="myportfolio-container minimal-light" id="esg-grid-1-1-wrap">
-                                            <div id="esg-grid-1-1" class="esg-grid">
-                                                <article class="esg-filters esg-singlefilters text_align_center margin_bottom_60">
-                                                    <!-- THE FILTER BUTTONS -->
-                                                    <div class="esg-filter-wrapper esg-fgc-1">
-                                                        <div class="esg-filterbutton selected esg-allfilter" data-filter="filterall" data-fid="-1">
-                                                            <span>Filter - All</span>
-                                                        </div>
-                                                        <div class="esg-filterbutton" data-fid="2" data-filter="filter-3d-technology">
-                                                            <span>3D Technology</span>
-                                                            <span class="esg-filter-checked">
-                                                                <i class="eg-icon-ok-1"></i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="esg-filterbutton" data-fid="3" data-filter="filter-copy-everything">
-                                                            <span>Copy Everything</span>
-                                                            <span class="esg-filter-checked">
-                                                                <i class="eg-icon-ok-1"></i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="esg-filterbutton" data-fid="5" data-filter="filter-photography">
-                                                            <span>Photography</span>
-                                                            <span class="esg-filter-checked">
-                                                                <i class="eg-icon-ok-1"></i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="esg-filterbutton" data-fid="6" data-filter="filter-story-in-colors">
-                                                            <span>Story in Colors</span>
-                                                            <span class="esg-filter-checked">
-                                                                <i class="eg-icon-ok-1"></i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="esg-filterbutton" data-fid="7" data-filter="filter-travellers">
-                                                            <span>Travellers</span>
-                                                            <span class="esg-filter-checked">
-                                                                <i class="eg-icon-ok-1"></i>
-                                                            </span>
-                                                        </div>
-                                                        <div class="eg-clearfix"></div>
-                                                    </div>
-                                                </article>
-                                                <div class="esg-clear-no-height"></div>
-                                                <ul>
-                                                    <!-- Grid Item -->
-                                                    <li class="filterall filter-3d-technology filter-business-cards filter-posters eg-washington-copypress-wrapper">
-                                                        <div class="esg-media-cover-wrapper">
-                                                            <div class="esg-entry-media">
-                                                                <img src="images/gallery1.jpg" alt="">
-                                                            </div>
-                                                            <div class="esg-entry-cover esg-fade" data-delay="0">
-                                                                <div class="esg-overlay esg-slideright eg-washington-copypress-container" data-delay="0"></div>
-                                                                <div class="esg-absolute eg-washington-copypress-element-1-a esg-fade" data-delay="0.4">
-                                                                    <a class="eg-washington-copypress-element-1" href="post-single.html" target="_self">
-                                                                        <i class="eg-icon-right-open-1"></i>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="esg-center eg-washington-copypress-element-8 esg-none esg-clear"></div>
-                                                                <div class="esg-center eg-washington-copypress-element-9 esg-none esg-clear"></div>
-                                                                <div class="esg-bottom eg-washington-copypress-element-3 esg-slideright" data-delay="0.3">Custom View Magazine Design</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!-- /Grid Item -->
-                                                    <!-- Grid Item -->
-                                                    <li class="filterall filter-copy-everything filter-booklets filter-magazines eg-washington-copypress-wrapper">
-                                                        <div class="esg-media-cover-wrapper">
-                                                            <div class="esg-entry-media">
-                                                                <img src="images/gallery2.jpg" alt="">
-                                                            </div>
-                                                            <div class="esg-entry-cover esg-fade" data-delay="0">
-                                                                <div class="esg-overlay esg-slideright eg-washington-copypress-container" data-delay="0"></div>
-                                                                <div class="esg-absolute eg-washington-copypress-element-1-a esg-fade" data-delay="0.4">
-                                                                    <a class="eg-washington-copypress-element-1" href="post-single.html" target="_self">
-                                                                        <i class="eg-icon-right-open-1"></i>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="esg-center eg-washington-copypress-element-8 esg-none esg-clear"></div>
-                                                                <div class="esg-center eg-washington-copypress-element-9 esg-none esg-clear"></div>
-                                                                <div class="esg-bottom eg-washington-copypress-element-3 esg-slideright" data-delay="0.3">Business Logo Design</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!-- /Grid Item -->
-                                                    <!-- Grid Item -->
-                                                    <li class="filterall filter-photography filter-business-cards filter-posters eg-washington-copypress-wrapper5">
-                                                        <div class="esg-media-cover-wrapper">
-                                                            <div class="esg-entry-media">
-                                                                <img src="images/gallery3.jpg" alt="">
-                                                            </div>
-                                                            <div class="esg-entry-cover esg-fade" data-delay="0">
-                                                                <div class="esg-overlay esg-slideright eg-washington-copypress-container" data-delay="0"></div>
-                                                                <div class="esg-absolute eg-washington-copypress-element-1-a esg-fade" data-delay="0.4">
-                                                                    <a class="eg-washington-copypress-element-1" href="post-single.html" target="_self">
-                                                                        <i class="eg-icon-right-open-1"></i>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="esg-center eg-washington-copypress-element-8 esg-none esg-clear"></div>
-                                                                <div class="esg-center eg-washington-copypress-element-9 esg-none esg-clear"></div>
-                                                                <div class="esg-bottom eg-washington-copypress-element-3 esg-slideright" data-delay="0.3">Press-Glued Catalog Printing</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!-- /Grid Item -->
-                                                    <!-- Grid Item -->
-                                                    <li class="filterall filter-story-in-colors filter-booklets filter-magazines eg-washington-copypress-wrapper">
-                                                        <div class="esg-media-cover-wrapper">
-                                                            <div class="esg-entry-media">
-                                                                <img src="images/gallery4.jpg" alt="">
-                                                            </div>
-                                                            <div class="esg-entry-cover esg-fade" data-delay="0">
-                                                                <div class="esg-overlay esg-slideright eg-washington-copypress-container" data-delay="0"></div>
-                                                                <div class="esg-absolute eg-washington-copypress-element-1-a esg-fade" data-delay="0.4">
-                                                                    <a class="eg-washington-copypress-element-1" href="post-single.html" target="_self">
-                                                                        <i class="eg-icon-right-open-1"></i>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="esg-center eg-washington-copypress-element-8 esg-none esg-clear"></div>
-                                                                <div class="esg-center eg-washington-copypress-element-9 esg-none esg-clear"></div>
-                                                                <div class="esg-bottom eg-washington-copypress-element-3 esg-slideright" data-delay="0.3">Book Covers Publishing</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!-- /Grid Item -->
-                                                    <!-- Grid Item -->
-                                                    <li class="filterall filter-travellers filter-business-cards filter-posters eg-washington-copypress-wrapper">
-                                                        <div class="esg-media-cover-wrapper">
-                                                            <div class="esg-entry-media">
-                                                                <img src="images/gallery5.jpg" alt="">
-                                                            </div>
-                                                            <div class="esg-entry-cover esg-fade" data-delay="0">
-                                                                <div class="esg-overlay esg-slideright eg-washington-copypress-container" data-delay="0"></div>
-                                                                <div class="esg-absolute eg-washington-copypress-element-1-a esg-fade" data-delay="0.4">
-                                                                    <a class="eg-washington-copypress-element-1" href="post-single.html" target="_self">
-                                                                        <i class="eg-icon-right-open-1"></i>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="esg-center eg-washington-copypress-element-8 esg-none esg-clear"></div>
-                                                                <div class="esg-center eg-washington-copypress-element-9 esg-none esg-clear"></div>
-                                                                <div class="esg-bottom eg-washington-copypress-element-3 esg-slideright" data-delay="0.3">Poster Templates and Presentations</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!-- /Grid Item -->
-                                                    <!-- Grid Item -->
-                                                    <li class="filterall filter-3d-technology filter-booklets filter-magazines eg-washington-copypress-wrapper">
-                                                        <div class="esg-media-cover-wrapper">
-                                                            <div class="esg-entry-media">
-                                                                <img src="images/gallery6.jpg" alt="">
-                                                            </div>
-                                                            <div class="esg-entry-cover esg-fade" data-delay="0">
-                                                                <div class="esg-overlay esg-slideright eg-washington-copypress-container" data-delay="0"></div>
-                                                                <div class="esg-absolute eg-washington-copypress-element-1-a esg-fade" data-delay="0.4">
-                                                                    <a class="eg-washington-copypress-element-1" href="post-single.html" target="_self">
-                                                                        <i class="eg-icon-right-open-1"></i>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="esg-center eg-washington-copypress-element-8 esg-none esg-clear"></div>
-                                                                <div class="esg-center eg-washington-copypress-element-9 esg-none esg-clear"></div>
-                                                                <div class="esg-bottom eg-washington-copypress-element-3 esg-slideright" data-delay="0.3">Commercial Billboard Prints</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!-- /Grid Item -->
-                                                    <!-- Grid Item -->
-                                                    <li class="filterall filter-copy-everything filter-business-cards filter-posters eg-washington-copypress-wrapper">
-                                                        <div class="esg-media-cover-wrapper">
-                                                            <div class="esg-entry-media">
-                                                                <img src="images/gallery7.jpg" alt="">
-                                                            </div>
-                                                            <div class="esg-entry-cover esg-fade" data-delay="0">
-                                                                <div class="esg-overlay esg-slideright eg-washington-copypress-container" data-delay="0"></div>
-                                                                <div class="esg-absolute eg-washington-copypress-element-1-a esg-fade" data-delay="0.4">
-                                                                    <a class="eg-washington-copypress-element-1" href="post-single.html" target="_self">
-                                                                        <i class="eg-icon-right-open-1"></i>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="esg-center eg-washington-copypress-element-8 esg-none esg-clear"></div>
-                                                                <div class="esg-center eg-washington-copypress-element-9 esg-none esg-clear"></div>
-                                                                <div class="esg-bottom eg-washington-copypress-element-3 esg-slideright" data-delay="0.3">Business Cards Design and Printing</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!-- /Grid Item -->
-                                                    <!-- Grid Item -->
-                                                    <li class="filterall filter-photography filter-booklets filter-magazines eg-washington-copypress-wrapper">
-                                                        <div class="esg-media-cover-wrapper">
-                                                            <div class="esg-entry-media">
-                                                                <img src="images/gallery8.jpg" alt="">
-                                                            </div>
-                                                            <div class="esg-entry-cover esg-fade" data-delay="0">
-                                                                <div class="esg-overlay esg-slideright eg-washington-copypress-container" data-delay="0"></div>
-                                                                <div class="esg-absolute eg-washington-copypress-element-1-a esg-fade" data-delay="0.4">
-                                                                    <a class="eg-washington-copypress-element-1" href="post-single.html" target="_self">
-                                                                        <i class="eg-icon-right-open-1"></i>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="esg-center eg-washington-copypress-element-8 esg-none esg-clear"></div>
-                                                                <div class="esg-center eg-washington-copypress-element-9 esg-none esg-clear"></div>
-                                                                <div class="esg-bottom eg-washington-copypress-element-3 esg-slideright" data-delay="0.3">Creative Writing Publishing</div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <!-- /Grid Item -->
-                                                </ul>
-                                            </div>
-                                        </article>
-                                        <div class="clear"></div>
-                                        <div class="empty_space height_4em"></div>
-                                        <div class="sc_item_button sc_button_wrap sc_align_center">
-                                            <a href="gallery-cobbles.html" class="sc_button sc_button_pink sc_button_size_normal sc_button_icon_left">
-                                                <span class="sc_button_text">
-                                                    <span class="sc_button_title">view all projects</span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                        <div class="empty_space height_9_4em"></div>
-                                    </div>
-                                </div>
-                                <!-- /Projects -->
                                 <!-- What can we do / Frequently Asked -->
-                                <div class="content_wrap sc_layouts_column_icons_position_left">
+                                <!-- <div class="content_wrap sc_layouts_column_icons_position_left">
                                     <div class="trx_addons_columns_wrap">
                                         <div class="trx_addons_column-1_2 sc_layouts_column_icons_position_left">
                                             <div class="empty_space height_9_2em"></div>
@@ -801,10 +572,10 @@ $pageName = "Home";
                                         </div>
                                     </div>
                                     <div class="empty_space height_9_4em"></div>
-                                </div>
+                                </div> -->
                                 <!-- /What can we do / Frequently Asked -->
                                 <!-- Service plans -->
-                                <div class="copypress-custom-bg-13">
+                                <!-- <div class="copypress-custom-bg-13">
                                     <div class="content_wrap sc_layouts_column_icons_position_left">
                                         <div class="empty_space height_9_4em"></div>
                                         <div class="sc_title sc_title_default">
@@ -864,10 +635,10 @@ $pageName = "Home";
                                         </div>
                                         <div class="empty_space height_7_9em"></div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- /Service plans -->
                                 <!-- Team -->
-                                <div class="copypress-custom-bg-1">
+                                <!-- <div class="copypress-custom-bg-1">
                                     <div class="sc_layouts_column_icons_position_left">
                                         <div class="empty_space height_8_6em"></div>
                                         <div class="sc_team sc_team_featured" data-slides-per-view="4" data-slides-min-width="150">
@@ -958,7 +729,7 @@ $pageName = "Home";
                                         </div>
                                         <div class="empty_space height_8_9em"></div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- /Team -->
                                 <!-- Special Offer -->
                                 <div class="copypress-custom-bg-14 scheme_dark">
@@ -978,7 +749,7 @@ $pageName = "Home";
                                 </div>
                                 <!-- /Special Offer -->
                                 <!-- Blogger / Twitter Stream -->
-                                <div class="copypress-custom-bg-1">
+                                <!-- <div class="copypress-custom-bg-1">
                                     <div class="content_wrap sc_layouts_column_icons_position_left">
                                         <div class="trx_addons_columns_wrap">
                                             <div class="trx_addons_column-1_2 trx_addons_column_specific sc_layouts_column_icons_position_left">
@@ -1063,7 +834,7 @@ $pageName = "Home";
                                         </div>
                                         <div class="empty_space height_9_2em"></div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- /Blogger / Twitter Stream -->
                                 <!-- Our Contacts -->
                                 <div class="copypress-custom-bg-2">
@@ -1073,7 +844,7 @@ $pageName = "Home";
                                             <div class="trx_addons_columns_wrap">
                                                 <div class="trx_addons_column-1_2">
                                                     <div class="sc_form_info">
-                                                        <h2 class="sc_item_title sc_form_title sc_align_default sc_item_title_style_default">Our Contacts</h2>
+                                                        <h2 class="sc_item_title sc_form_title sc_align_default sc_item_title_style_default">Contact Us</h2>
                                                         <div class="sc_form_info_item sc_form_info_item_address">
                                                             <span class="sc_form_info_icon"></span>
                                                             <span class="sc_form_info_area">
