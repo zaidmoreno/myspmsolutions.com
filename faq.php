@@ -40,7 +40,7 @@ $pageName = "Frequently Asked Questions";
                                         <div id="content">					
                                             <h3>Screen Printing</h3>
                                             <div class="trx_addons_columns_wrap">
-                                                <div class="trx_addons_column-1 sc_layouts_column_icons_position_left">
+                                                <div class="trx_addons_column sc_layouts_column_icons_position_left">
                                                     <div class="sc_accordion sc_accordion_style_1" data-active="0">
                                                         <div class="sc_accordion_item odd first">
                                                             <h5 class="sc_accordion_title">
@@ -142,7 +142,7 @@ $pageName = "Frequently Asked Questions";
                                             </div>
                                             <h3>Wide Format Printing</h3>
                                             <div class="trx_addons_columns_wrap">
-                                                <div class="trx_addons_column-1 sc_layouts_column_icons_position_left">
+                                                <div class="trx_addons_column sc_layouts_column_icons_position_left">
                                                     <div class="sc_accordion sc_accordion_style_1" data-active="0">
                                                         <div class="sc_accordion_item odd first">
                                                             <h5 class="sc_accordion_title">
@@ -174,7 +174,7 @@ $pageName = "Frequently Asked Questions";
                                             </div>
                                             <h3>Full Color Printing</h3>
                                             <div class="trx_addons_columns_wrap">
-                                                <div class="trx_addons_column-1 sc_layouts_column_icons_position_left">
+                                                <div class="trx_addons_column sc_layouts_column_icons_position_left">
                                                     <div class="sc_accordion sc_accordion_style_1" data-active="0">
                                                         <div class="sc_accordion_item odd first">
                                                             <h5 class="sc_accordion_title">
